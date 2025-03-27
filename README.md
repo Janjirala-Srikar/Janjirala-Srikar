@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Srikar+Janjirala" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Hello%21+I'm+Srikar+Janjirala" alt="Typing Introduction" />
 </h1>
 
-<h3 align="center">A passionate developer from India creating impactful digital experiences 🌐</h3>
+<h3 align="center">A passionate developer from India creating impactful digital experiences</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter: invert(1)"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
