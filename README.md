@@ -1,152 +1,100 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Hello%21+I'm+Srikar+Janjirala" alt="Typing Introduction" />
-</h1>
+# Hi there, I'm Srikar
 
-<h3 align="center">Crafting Innovative Digital Experiences with Passion & Precision</h3>
+[Portfolios](https://www.linkedin.com/in/srikar-janjirala/) - [LinkedIn](https://www.linkedin.com/in/srikar-janjirala/) - [Instagram](https://www.instagram.com/srikar_janjirala) - [Website](#) - [Contact me](mailto:srikar.janjirala@gmail.com).
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/srikar_janjirala" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:srikar.janjirala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
----
+<div style="flex: 1;">
 
 ## 👨🏻‍💻 **About Me**
-✨ **Full Stack Developer** | **MERN Stack Enthusiast** | **Digital Innovation Specialist**  
-⚡ Building secure, scalable web applications with modern technologies  
-🌱 Currently exploring **advanced React patterns** and **cloud deployment strategies**  
-📫 **How to reach me:** [Schedule a Call](#) or [Join Newsletter](#)  
-👯 **Looking to collaborate on:** Open source projects and innovative web solutions  
-💬 **Ask me about:** MERN Stack, Web Development, UI/UX Design
+✨ **Full Stack Developer** | **MERN Stack Enthusiast**  
+⚡ Check my ✨ [Website](#) or 🌱 [Projects](#projects)  
+📫 **How to reach me:** [Schedule Call](#) or [Join Newsletter](#)  
+👯 **Join my opensource community** [recodehive](#)  
+💬 **Ask me about** MERN Stack/Web Development.
+
+## 🛠 **Tech Stack/ Certifications**
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**Frameworks and Libraries:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Tools and Platforms:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+</div>
+
+<div style="flex: 1; text-align: center;">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Developer Illustration" width="400"/>
+</div>
+
+</div>
 
 ---
 
-## 🛠 **Tech Stack & Tools**
+## 📝 **Curated Projects**
 
-### **Languages:**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-</div>
+### 1. **🎓 Lumora - Learning Platform**
+[Live Demo: Click here](https://lumora-web.netlify.app/) | [Source Code](#)  
+A secure MERN stack learning platform that organizes course lecture content shared in WhatsApp into a structured website.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, JWT Authentication
 
-### **Frameworks and Libraries:**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50" style="filter: invert(0.5)"/>
-</div>
+### 2. **✍️ InkSpire - Blog Platform**
+[Live Demo: Click here](https://inkspire-blog.netlify.app/) | [Source Code](#)  
+A full-featured blog application built with MERN stack, allowing users to create, read, update, and delete blog posts.  
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Rich Text Editor
 
-### **Tools and Platforms:**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" style="filter: invert(0.5)"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="50" height="50"/>
-</div>
+### 3. **📚 Digital Academic Library**
+[Live Demo: Click here](#) | [Source Code](#)  
+Designed a centralized academic platform for streamlined access to research papers, books, and course materials. Integrated role-based access, advanced search, and AI assistance to support structured learning and collaboration.  
+**Tech Stack:** React, HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, WebSockets, Twilio API, Gemini API
 
----
+### 4. **🏛️ Seminar Hall Management**
+[Live Demo: Click here](#) | [Source Code](#)  
+Built a centralized platform for seminar hall bookings and resource allocation in educational institutions, ensuring real-time availability and automated approvals. Designed for multiple user roles and devices, it streamlines scheduling and enhances transparency.  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase Authentication, EmailJS, Bootstrap/Tailwind CSS
 
-## 📝 **Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎓 Lumora - Learning Platform</h3>
-      <div align="center">
-        <a href="https://lumora-web.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-333333?style=for-the-badge" alt="View Live" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Source_Code-333333?style=for-the-badge&logo=github" alt="Source Code" />
-        </a>
-        <br><br>
-        <p><strong>Tech Stack:</strong> MERN Stack, JWT Authentication</p>
-        <p>A secure learning platform that transforms WhatsApp course content into structured, accessible web format with user authentication and progress tracking.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">✍️ InkSpire - Blog Platform</h3>
-      <div align="center">
-        <a href="https://inkspire-blog.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-333333?style=for-the-badge" alt="View Live" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Source_Code-333333?style=for-the-badge&logo=github" alt="Source Code" />
-        </a>
-        <br><br>
-        <p><strong>Tech Stack:</strong> MERN Stack, Rich Text Editor</p>
-        <p>Full-featured blogging application with CRUD operations, user authentication, comment system, and responsive design for optimal user experience.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔗 Project 3</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-333333?style=for-the-badge" alt="View Live" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Source_Code-333333?style=for-the-badge&logo=github" alt="Source Code" />
-        </a>
-        <br><br>
-        <p><strong>Tech Stack:</strong> Add your tech stack</p>
-        <p>Description of your third project goes here.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 Project 4</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-333333?style=for-the-badge" alt="View Live" />
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Source_Code-333333?style=for-the-badge&logo=github" alt="Source Code" />
-        </a>
-        <br><br>
-        <p><strong>Tech Stack:</strong> Add your tech stack</p>
-        <p>Description of your fourth project goes here.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+### 5. **🔗 More Projects Coming Soon...**
+Currently working on exciting new projects involving AI integration and advanced web technologies.
 
 ---
 
 ## ⚙️ **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janjirala-Srikar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF&icon_color=6B7280" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF&icon_color=6B7280" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janjirala-Srikar&theme=dark&hide_border=true&background=0D1117&stroke=6B7280&ring=6B7280&fire=6B7280&currStreakLabel=6B7280" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjirala-Srikar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=6B7280&ring=6B7280&fire=6B7280&currStreakLabel=6B7280" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📈 **Activity Graph**
+## 📚 **Recent Projects/ Activity**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 **Get my Code stats**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=6B7280&line=6B7280&point=9CA3AF" alt="GitHub Activity Graph" />
@@ -154,52 +102,10 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
+Do you want to contact me for collaboration opportunities? ⟶ [Contact Details](mailto:srikar.janjirala@gmail.com)
+
+**Show some ❤️ by starring some of the repositories!**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janjirala-Srikar&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 **Weekly Development Breakdown**
-
-```text
-JavaScript   ████████████████░░░░░   65.2%
-React        ████████░░░░░░░░░░░░░   32.1%
-CSS          ██░░░░░░░░░░░░░░░░░░░   08.7%
-HTML         █░░░░░░░░░░░░░░░░░░░   04.3%
-Python       ██░░░░░░░░░░░░░░░░░░░   12.1%
-```
-
----
-
-## 📬 **Let's Connect & Collaborate**
-
-<div align="center">
-  <p>💡 <strong>Looking for collaboration opportunities?</strong></p>
-  
-  <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:srikar.janjirala@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/srikar_janjirala" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <p><strong> Contact Details | Schedule a Call </strong></p>
-  <p><strong>Show some ❤️ by starring some of my repositories!</strong></p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6B7280&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6B7280&style=flat" alt="Profile Views" />
 </div>
