@@ -137,11 +137,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=6B7280&ring=6B7280&fire=6B7280&currStreakLabel=6B7280" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janjirala-Srikar&theme=dark&hide_border=true&background=0D1117&stroke=6B7280&ring=6B7280&fire=6B7280&currStreakLabel=6B7280" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjirala-Srikar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF" alt="Top Languages" />
 </div>
 
 ---
@@ -157,7 +157,7 @@
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Janjirala-Srikar&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -194,7 +194,7 @@ Python       ██░░░░░░░░░░░░░░░░░░░   1
 </div>
 
 <div align="center">
-  <p><strong>⟶ Contact Details | Schedule a Call | Join Newsletter</strong></p>
+  <p><strong> Contact Details | Schedule a Call </strong></p>
   <p><strong>Show some ❤️ by starring some of my repositories!</strong></p>
 </div>
 
