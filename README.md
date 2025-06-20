@@ -25,7 +25,6 @@
 ✨ **Full Stack Developer** | **MERN Stack Enthusiast** | **Digital Innovation Specialist**  
 ⚡ Building secure, scalable web applications with modern technologies  
 🌱 Currently exploring **advanced React patterns** and **cloud deployment strategies**  
-📫 **How to reach me:** [Schedule a Call](#) or [Join Newsletter](#)  
 👯 **Looking to collaborate on:** Open source projects and innovative web solutions  
 💬 **Ask me about:** MERN Stack, Web Development, UI/UX Design
 
@@ -179,12 +178,10 @@
 </div>
 
 <div align="center">
-  <p><strong>⟶ Contact Details | Schedule a Call | Join Newsletter</strong></p>
+  <p><strong>Contact Details | Schedule a Call | Join Newsletter</strong></p>
   <p><strong>Show some ❤️ by starring some of my repositories!</strong></p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Janjirals-Srikar&color=6B7280&style=for-the-badge" alt="Profile Views" />
-</div>
+
