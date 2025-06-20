@@ -133,7 +133,7 @@
 ## ⚙️ **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF&icon_color=6B7280" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janjirala-Srikar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF&icon_color=6B7280" alt="GitHub Stats" />
 </div>
 
 <div align="center">
