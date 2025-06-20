@@ -1,131 +1,73 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Hello%21+I'm+Srikar+Janjirala" alt="Typing Introduction" />
+</h1>
+
+<h3 align="center">Crafting Innovative Digital Experiences with Passion & Precision</h3>
+
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hello World! I'm **Srikar Janjirala**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+MERN+Enthusiast;Crafting+Digital+Solutions+with+Passion;Turning+Ideas+into+Reality" alt="Typing SVG" />
-
+  <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/srikar_janjirala" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:srikar.janjirala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## 🚀 About Me
-
-I'm a passionate Full Stack Developer who loves building seamless digital experiences. My journey in tech is driven by curiosity and the desire to solve real-world problems through code. I specialize in the MERN stack and enjoy exploring new technologies that can enhance user experiences.
-
-When I'm not coding, you'll find me learning about emerging tech trends, contributing to open source projects, or brainstorming the next big idea. I believe in writing clean, maintainable code and creating applications that make a difference.
-
-**Currently focused on:** Building scalable web applications and exploring AI integration in web development.
-
-### 💻 Tech Stack
-
-```javascript
-const srikar = {
-    pronouns: "He" | "Him",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "RESTful APIs"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
-    tools: ["Git", "GitHub", "VS Code", "Postman"],
-    deployment: ["Netlify", "Heroku", "Firebase", "Vercel"],
-    currentlyLearning: "Advanced React Patterns & System Design",
-    funFact: "I believe the best debugging tool is a good night's sleep! 💤"
-};
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ **Technologies & Tools**
+## 🛠 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,html,css,tailwind,bootstrap,git,github,firebase,netlify,heroku&theme=dark" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="filter: invert(0.5)"/>
 </div>
 
----
 
-## 🎯 **Featured Projects**
 
-### 🎓 **Lumora Learning Platform**
-> *Revolutionizing education by transforming WhatsApp content into structured learning experiences*
+## 🚀 Live Projects
 
-**Tech Stack:** React • Node.js • MongoDB • Express • JWT • Socket.IO  
-**Key Features:** Real-time collaboration, secure authentication, progress tracking, responsive design  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://lumora-web.netlify.app/) [![GitHub](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](#)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Lumora</h3>
+      <div align="center">
+        <a href="https://lumora-web.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
+        </a>
+        <p>A secure MERN stack learning platform that organizes course lecture content shared in WhatsApp into a structured website.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">InkSpire</h3>
+      <div align="center">
+        <a href="https://inkspire-blog.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
+        </a>
+        <p>A full-featured blog application built with MERN stack, allowing users to create, read, update, and delete blog posts.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
-
-### ✍️ **InkSpire Blog Platform**
-> *Modern blogging platform empowering writers with rich editing capabilities and social engagement*
-
-**Tech Stack:** React • Node.js • MongoDB • Express • Rich Text Editor  
-**Key Features:** Advanced text editing, user profiles, comment system, search functionality  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://inkspire-blog.netlify.app/) [![GitHub](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](#)
-
----
-
-### 📚 **Digital Academic Library**
-> *AI-powered academic resource management system for educational institutions*
-
-**Tech Stack:** React • Node.js • MongoDB • Gemini AI • Express  
-**Key Features:** AI-powered search, role-based access control, smart recommendations  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](#) [![GitHub](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](#)
-
----
-
-### 🏛️ **Seminar Hall Management System**
-> *Smart booking solution streamlining venue management for educational institutions*
-
-**Tech Stack:** React • Firebase • EmailJS • Tailwind CSS  
-**Key Features:** Real-time availability, automated notifications, multi-role dashboard  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](#) [![GitHub](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](#)
-
----
-
-## 📊 **Most Used Languages**
+## 📬 Connect With Me
 
 <div align="center">
-
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjirala-Srikar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 **Achievements**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Janjirala-Srikar&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&title=Stars,Commits,Repositories,PullRequest" />
-
-</div>
-
----
-
-## 🌐 **Let's Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikar-janjirala/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srikar_janjirala)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikar.janjirala@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"The best error message is the one that never shows up."* – Thomas Fuchs
-
-<img src="https://komarev.com/ghpvc/?username=Janjirala-Srikar&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-
-**⭐ Thanks for visiting! Feel free to explore my repositories ⭐**
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=dark" />
+  <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:srikar.janjirala@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
