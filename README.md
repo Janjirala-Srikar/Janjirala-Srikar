@@ -77,11 +77,11 @@ Currently working on exciting new projects involving AI integration and advanced
 ## ⚙️ **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF&icon_color=6B7280" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janjirala-Srikar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF&icon_color=6B7280" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=6B7280&ring=6B7280&fire=6B7280&currStreakLabel=6B7280" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janjirala-Srikar&theme=dark&hide_border=true&background=0D1117&stroke=6B7280&ring=6B7280&fire=6B7280&currStreakLabel=6B7280" alt="GitHub Streak" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ Currently working on exciting new projects involving AI integration and advanced
 ## 📚 **Recent Projects/ Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjirala-Srikar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&text_color=9CA3AF" alt="Top Languages" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ Currently working on exciting new projects involving AI integration and advanced
 ## 📈 **Get my Code stats**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=6B7280&line=6B7280&point=9CA3AF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janjirala-Srikar&theme=react-dark&hide_border=true&bg_color=0D1117&color=6B7280&line=6B7280&point=9CA3AF" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -107,5 +107,5 @@ Do you want to contact me for collaboration opportunities? ⟶ [Contact Details]
 **Show some ❤️ by starring some of the repositories!**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6B7280&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Janjirala-Srikar&color=6B7280&style=flat" alt="Profile Views" />
 </div>
