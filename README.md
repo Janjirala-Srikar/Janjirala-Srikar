@@ -77,7 +77,7 @@
   <p>🌐 Linktree:</p>
   
   <a href="https://linktr.ee/srikar_janjirala" target="_blank">
-    <img alt="Linktree" src="https://img.shields.io/badge/🔗Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-4A5260?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <br/><br/>
 </div>
