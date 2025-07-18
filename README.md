@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hello%21+I'm+Srikar+Janjirala;Full+Stack+Developer; alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hello%21+I'm+Srikar+Janjirala;Full+Stack+Developer" alt="Typing Introduction" />
 </h1>
 
 <h3 align="center">Crafting Innovative Digital Experiences with Passion & Precision</h3>
@@ -33,7 +33,7 @@
 - 🌱 I'm currently learning **Advanced React Patterns & Cloud Technologies**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 How to reach me: **srikar.janjirala@gmail.com**
+- 📫 How to reach me: **srikarjanjirala92@gmail.com**
 - ⚡ Fun fact: **I love turning complex problems into simple solutions**
 
 ---
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:srikar.janjirala@gmail.com">
+  <a href="mailto:srikarjanjirala92@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/srikar_janjirala" target="_blank">
@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Code,Click,Deploy!+build+something+amazing+together!" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Code,Click,Deploy!" alt="Thanks" />
 </div>
 
 <div align="center">
