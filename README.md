@@ -1,16 +1,15 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hello%21+I'm+Srikar+Janjirala;Full+Stack+Developer" alt="Typing Introduction" />
 </h1>
-
 <h3 align="center">Crafting Innovative Digital Experiences with Passion & Precision</h3>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=srikar-janjirala&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
 <br/>
-
 <div align="center">
+  <a href="https://linktr.ee/srikar_janjirala" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
   <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -75,7 +74,12 @@
 
 <div align="center">
   <p>💼 Open for collaborations and exciting opportunities!</p>
+  <p>🌐 Find all my links in one place:</p>
   
+  <a href="https://linktr.ee/srikar_janjirala" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/🔗_All_Links-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <br/><br/>
   <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
