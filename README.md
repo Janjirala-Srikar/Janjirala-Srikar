@@ -29,8 +29,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 🔭 I'm currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **Advanced React Patterns & Cloud Technologies**
 - 👯 I'm looking to collaborate on **Open Source Projects**
@@ -60,15 +58,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srikar-janjirala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikar-janjirala&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -79,53 +68,6 @@
 | **✍️ InkSpire** | Full-featured blog application with CRUD operations, user authentication, and responsive design | MERN Stack, JWT Auth | [🔗 Live](https://inkspire-blog.netlify.app/) |
 
 </div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-  
-- 🎯 **Full Stack Developer** specializing in MERN stack
-- 🌐 **2+ Live Projects** deployed and actively maintained  
-- 📚 **Continuous Learner** passionate about emerging technologies
-- 🤝 **Open Source Contributor** committed to community growth
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikar-janjirala&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const srikar = {
-    pronouns: "he/him",
-    code: ["JavaScript", "Python", "Java", "C/C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "problem solving"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Git", "GitHub", "REST APIs"]
-    },
-    currentFocus: "Building scalable web applications with modern tech stack",
-    funFact: "I debug with console.log() and I'm not ashamed of it!"
-};
-```
 
 ---
 
