@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hello%21+I'm+Srikar+Janjirala;Full+Stack+Developer;Digital+Experience+Creator" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hello%21+I'm+Srikar+Janjirala;Full+Stack+Developer; alt="Typing Introduction" />
 </h1>
 
-<h3 align="center">🚀 Crafting Innovative Digital Experiences with Passion & Precision</h3>
+<h3 align="center">Crafting Innovative Digital Experiences with Passion & Precision</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=srikar-janjirala&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/srikar_janjirala" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:srikar.janjirala@gmail.com">
+  <a href="mailto:srikarjanjirala92@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/srikar-janjirala" target="_blank">
@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Code,Click,Deploy!+build+something+amazing+together!" alt="Thanks" />
 </div>
 
 <div align="center">
