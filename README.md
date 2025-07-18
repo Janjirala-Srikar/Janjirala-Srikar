@@ -74,7 +74,6 @@
 
 <div align="center">
   <p>💼 Open for collaborations and exciting opportunities!</p>
-  <p>🌐 Linktree:</p>
   
   <a href="https://linktr.ee/srikar_janjirala" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/Linktree-4A5260?style=for-the-badge&logo=linktree&logoColor=white" />
