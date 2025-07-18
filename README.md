@@ -74,21 +74,12 @@
 
 <div align="center">
   <p>💼 Open for collaborations and exciting opportunities!</p>
-  <p>🌐 Find all my links in one place:</p>
+  <p>🌐 Linktree:</p>
   
   <a href="https://linktr.ee/srikar_janjirala" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/🔗_All_Links-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <br/><br/>
-  <a href="https://www.linkedin.com/in/srikar-janjirala/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:srikarjanjirala92@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/srikar_janjirala" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </div>
 
 ---
